@@ -14,9 +14,9 @@ To stop the script, press the ESC key.
 ## Dependencies
 The script depends on the following Python modules:
 
-pynput
-winsound
-logging
+- pynput
+* winsound
++ logging
 
 You can install these modules using pip, the Python package manager:
 ```
